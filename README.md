@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kübra</h1>
 
-- 🔭 I’m currently working on **mobile application development**
+- 🔭 I’m currently working on **mobile application development and Asp.Net**
 
 - 📫 How to reach me **kubravarol499@gmail.com**
 
