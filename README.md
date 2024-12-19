@@ -1,6 +1,6 @@
 <h1 align="center">🌟 Hello there! I'm Kübra</h1>
 
-📍 **Software Engineering Student | Algorithm Enthusiast | Aspiring Data Engineer**
+📍 **Software Engineering Student | Algorithm Enthusiast 
 
 I'm a 3rd-year Software Engineering student passionate about problem-solving and building innovative software solutions. With a strong foundation in **algorithms and data structures**, I aim to tackle real-world challenges through efficient and scalable code.
 
