@@ -1,4 +1,15 @@
-<h1 align="center">Hi 👋, I'm Kübra</h1>
+<h1 align="center">🌟 Hello there! I'm Kübra</h1>
+
+📍 **Software Engineering Student | Algorithm Enthusiast | Aspiring Data Engineer**
+
+I'm a 3rd-year Software Engineering student passionate about problem-solving and building innovative software solutions. With a strong foundation in **algorithms and data structures**, I aim to tackle real-world challenges through efficient and scalable code.
+
+---
+
+## 🚀 What I Do  
+- **Backend Development**: Building robust APIs and scalable systems.  
+- **Data Enthusiast**: Exploring the power of data through analytics and machine learning.  
+- **Problem-Solving**: Actively solving problems on platforms like LeetCode and HackerRank.  
 
 - 🔭 I’m currently working on **Mobile application development and Asp.Net**
 
