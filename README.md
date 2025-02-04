@@ -5,6 +5,7 @@
 I'm a 3rd-year Software Engineering student passionate about problem-solving and building innovative software solutions. With a strong foundation in algorithms and data structures, I aim to tackle real-world challenges through efficient and scalable code.
 
 🚀 What I Do
+
 Backend Development: Building robust APIs and scalable systems.
 
 Data Enthusiast: Exploring the power of data through analytics and machine learning.
@@ -17,9 +18,9 @@ Problem-Solving: Actively solving problems on platforms like LeetCode and Hacker
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/kübravarol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kübra varol" height="30" width="40" /></a>
+<a href="http://linkedin.com/in/kübravarol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kübra varol" height="30" width="40" /></a>
 <a href="https://instagram.com/kbra.v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kbra.v" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kbravrl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kbravrl" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/kbravrl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kbravrl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
