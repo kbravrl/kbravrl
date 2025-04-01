@@ -1,6 +1,6 @@
 <h1 align="center">Merhaba 👋, Ben Kübra</h1>
 
-📍 **Yazılım Mühendisliği Öğrencisi | Algoritma Meraklısı
+📍 **Yazılım Mühendisliği Öğrencisi | Algoritma Meraklısı**
 
 Ben, 3. sınıf Yazılım Mühendisliği öğrencisiyim ve problem çözme ile yenilikçi yazılım çözümleri geliştirme konusunda tutkuluyum. Algoritmalar ve veri yapıları konusunda güçlü bir temele sahibim. Verimli ve ölçeklenebilir kodlarla gerçek dünya problemlerine çözümler üretmeyi hedefliyorum.
 
