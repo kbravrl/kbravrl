@@ -32,8 +32,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kbravrl&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kbravrl&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kbravrl&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kbravrl&theme=cobalt&hide_border=false)
+![](https://streak-stats.demolab.com?user=kbravrl&theme=cobalt&hide_border=false)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kbravrl&theme=cobalt&layout=compact)
 
 
